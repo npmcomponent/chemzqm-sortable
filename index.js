@@ -2,13 +2,13 @@
  * dependencies
  */
 
-var matches = require('matches-selector')
-  , emitter = require('emitter')
-  , classes = require('classes')
-  , events = require('events')
-  , indexof = require('indexof')
-  , closest = require('closest')
-  , delay = require('delay');
+var matches = require('component-matches-selector')
+  , emitter = require('component-emitter')
+  , classes = require('component-classes')
+  , events = require('component-events')
+  , indexof = require('yields-indexof')
+  , closest = require('discore-closest')
+  , delay = require('yields-delay');
 
 var styles = window.getComputedStyle;
 /**

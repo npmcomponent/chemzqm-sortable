@@ -1,0 +1,20 @@
+{
+  "name": "chemzqm-sortable",
+  "description": "UI Sortable component.",
+  "version": "0.3.3",
+  "keywords": [
+    "draggable",
+    "sortable"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "component-matches-selector": "git://github.com/npmcomponent/component-matches-selector.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "component-events": "git://github.com/npmcomponent/component-events.git",
+    "component-classes": "git://github.com/npmcomponent/component-classes.git",
+    "discore-closest": "git://github.com/npmcomponent/discore-closest.git",
+    "yields-delay": "git://github.com/npmcomponent/yields-delay.git",
+    "yields-indexof": "git://github.com/npmcomponent/yields-indexof.git"
+  },
+  "license": "MIT"
+}
